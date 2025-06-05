@@ -1,4 +1,4 @@
-# Portfólio de Projetos – Vinícius C. Guimarães
+# Portfólio de Projetos – Vinicius C. Guimarães
 
 Bem-vindo ao meu repositório! Aqui você encontrará uma coletânea dos meus projetos desenvolvidos ao longo da minha trajetória profissional, acadêmica e pessoal.
 
